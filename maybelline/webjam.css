@@ -1,0 +1,266 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+     height: 100%;
+     width: 100%;
+}
+#parent{
+    height: 100%;
+    background-color:aquamarine ;
+    display: grid;
+    grid-template-rows: 15% 63% 90% 90% 90% 90% 30%;
+}
+#a{
+    background-color: rgb(0, 0, 0);
+    display: grid;
+    grid-template-columns: 15% 70% 15%;
+}
+#my{
+    background-color: rgb(0, 0, 0);
+    margin-top: 20px;
+}
+#search{
+    font-size: 20px;
+    color: white;
+    margin-left: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+#me{
+    background-color: rgb(0, 0, 0);
+}
+#bold{
+text-align: center;
+padding-top: 20px;
+color: white;
+display: flex;
+gap: 20px;
+padding-left: 20px;
+}
+#may{
+    padding-left: 40%;
+    padding-top: 20px;
+}
+#shall{
+    background-color: rgb(0, 0, 0);
+}
+#b{
+    background-color: green;
+    height: 550px;
+}
+
+#c{
+    background-color: rgb(255, 255, 255);
+    padding-top: 70px;
+}
+#go{
+    font-size: 70px;
+    padding-left: 50px;
+    margin-top: 30px;
+}
+#ge{
+    font-size: 22px;
+    padding-top: 10px;
+    padding-left: 48px;
+}
+#imagine{
+    padding-left: 390px;
+    padding-top: 40px;
+}
+#image{
+    padding-left: 20px;
+    padding-top: 40px;
+}
+#d{
+    background-color: rgb(255, 255, 255);
+
+}
+#be{
+    font-size: 70px ;
+    padding-left: 90px;
+}
+
+#for{
+    height: 454px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+#for:hover{
+    border: 5px solid black;
+}
+#kon{
+    height: 300px;
+    width: 200px;
+}
+#diana{
+    display: flex;
+    gap: 20px;
+    padding-left: 300px;
+}
+#might{
+    height: 475px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+#might:hover{
+    border: 5px solid black;
+}
+#choco{
+    height: 300px;
+    width: 200px;
+}
+#mean{
+    height: 475px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+#mean:hover{
+    border: 5px solid black;
+}
+#begin{
+    height: 300px;
+    width: 200px;
+}
+#will{
+    height: 454px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+#will:hover{
+    border: 5px solid black; 
+}
+#blink{
+    height: 300px;
+    width: 200px;
+}
+#pol{
+    color: grey;
+}
+#but{
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#e{
+    background-color: rgb(255, 255, 255);
+}
+#begi{
+    font-size: 70px ;
+    padding-left: 90px; 
+}
+#math{
+    display: flex;
+    gap: 20px;
+    padding-left: 90px;
+}
+#one{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#two{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#three{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#four{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#f{
+    background-color: rgb(255, 255, 255);
+}
+#elephant{
+    font-size: 70px ;
+    padding-left: 90px; 
+}
+#makeup{
+    padding-left: 90px;
+    font-size: 20px;
+}
+#motu{
+    display: flex;
+    gap: 20px;
+    padding-left: 90px;
+}
+#patlu{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#bag{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#chim{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#man{
+    height: 470px;
+    width: 314px;
+    background-color: aqua;
+}
+#g{
+    background-color: rgb(0, 0, 0);
+}
+#geek{
+    display: flex;
+    gap: 30px;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 90px;
+    color:white;
+    font-family:  Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#mdn{
+    display: flex;
+    padding-left: 90px;
+    padding-top:30px ;
+    gap: 30px;
+    color: white;
+    font-size: 12px;
+}
+#white{
+    color: white;
+}
+#check{
+    padding-left: 90px;
+    padding-top: 40px;
+    display: flex;
+    gap: 40px;
+}
+#bring{
+    color: white;
+    padding-left: 90px;
+    padding-top: 30px;
+    font-size: 12px;
+
+}
+#shall{
+    color: white;
+    margin-top: 20px;
+
+}
+#wow{
+    padding-left: 140px;
+    margin-top: 40px;
+}
